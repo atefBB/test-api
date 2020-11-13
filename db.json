@@ -21,6 +21,6 @@
     { "command_id": 19, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
     { "command_id": 20, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
     { "command_id": 21, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 22, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
+    { "command_id": 22, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" }
   ]
 }
