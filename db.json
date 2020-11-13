@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "orders": [
+    { "command_id": 1, "billing_name": "Name 1", "date": 212122, "total": 1, "payment_status": "valid", "payment_method": "" },
+    { "command_id": 2, "billing_name": "Name 2", "date": 215422, "total": 2, "payment_status": "valid", "payment_method": "" },
+    { "command_id": 3, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" }
+  ]
 }
