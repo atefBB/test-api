@@ -1,5 +1,5 @@
 {
-  "orders": [
+  "commands": [
     { "command_id": 1, "billing_name": "Name 1", "date": 212122, "total": 1, "payment_status": "valid", "payment_method": "" },
     { "command_id": 2, "billing_name": "Name 2", "date": 215422, "total": 2, "payment_status": "valid", "payment_method": "" },
     { "command_id": 3, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
