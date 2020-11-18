@@ -25,5 +25,10 @@
   ],
   "users" : [
     { "id": 1, "name": "Foulex", "username": "foulex", "email": "foulex@gmail.com" }
+  ],
+  "apolloUsers": [
+    "data": [
+       { "id": 1, "name": "Foulex", "username": "foulex", "email": "foulex@gmail.com" }
+    ]
   ]
 }
