@@ -28,9 +28,11 @@
   "users" : [
     { "id": 1, "name": "Foulex", "username": "foulex", "email": "foulex@gmail.com" }
   ],
-  "apolloUsers": [{
-    "data": [
-       { "id": 1, "name": "Foulex", "username": "foulex", "email": "foulex@gmail.com" }
-    ]
-  }]
+  "orders": [
+      { "id": 1, "billing_name": "Name 1", "date": 212122, "total": 1, "payment_status": "valid", "payment_method": "" },
+      { "id": 2, "billing_name": "Name 2", "date": 215422, "total": 2, "payment_status": "valid", "payment_method": "" },
+      { "id": 3, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
+      { "id": 4, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
+      { "id": 5, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "invalid", "payment_method": "" }
+   ],
 }
