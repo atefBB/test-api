@@ -34,5 +34,10 @@
       { "id": 3, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
       { "id": 4, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
       { "id": 5, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "invalid", "payment_method": "" }
-   ]
+   ],
+  "persons": {
+    "data": [
+      { "id": 1, "name": "A Person", "username": "person", "email": "a.person@gmail.com" }
+    ]
+  },
 }
